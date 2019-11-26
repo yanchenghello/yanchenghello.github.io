@@ -164,7 +164,7 @@ markdown:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: snail
+theme: jekyll-theme-cayman
 
 #sitemap
 sitemap:
